@@ -32,7 +32,7 @@ Cliquez [ici](test.txt) pour allez au fichier test.
 ## Ajouter une image  
 ![photo](logo-afpi.png)  
 
-#Ajouter un emoji  
+## Ajouter un emoji  
 
 Pour trouver la liste des emojis disponible avec GitHub : [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet)  
 
