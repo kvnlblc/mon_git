@@ -35,4 +35,20 @@ Pour aller sur le site I love PDF, cliquez [ici](https://ilovepdf.com)
 
 Pour trouver la liste des emojis disponible avec GitHub : [Liste des emojis](https://github.com/ikatyang/emoji-cheat-sheet)  
 
-:relaxed:
+:relaxed: 
+
+## Liste Simple  
+* Element A  
+* Element B
+* Element C  
+
+## Liste ordonnées  
+1. Carottes
+2. Pomme de terre
+3. Salade
+
+#Liste Imbriquée
+* Element 1
+  * Element 1.A
+    * Element 1.A.1
+      * Element 1.A.1.B
