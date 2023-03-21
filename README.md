@@ -26,7 +26,8 @@ git push
 ## Lien  URL  
 Pour aller sur le site I love PDF, cliquez [ici](https://ilovepdf.com)  
 
-## Lien vers un autre fichier [Vers test.txt](test.txt)  
+## Lien vers un autre fichier 
+Cliquez [ici](test.txt) pour allez au fichier test.
 
 ## Ajouter une image  
 ![photo](logo-afpi.png)  
