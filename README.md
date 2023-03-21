@@ -12,23 +12,23 @@ Voici mon mot en __gras__.
 <sub>Mon text est en plus petit</sub>  
 <sup>SuperScript</sup>  
 
-#Citations
+## Citations
 > Nous avons ici une citation  
 Nous avons imbriqué `une citation` ici  
 
-#Code distinct  
+## Code distinct  
 Pour faire un commit   
 git status  
 git add -A  
 git commit -m "nom du commit"  
 git push  
 
-#Lien  URL  
+## Lien  URL  
 Pour aller sur le site I love PDF, cliquez [ici](https://ilovepdf.com)  
 
-#Lien vers un autre fichier [Vers test.txt](test.txt)  
+## Lien vers un autre fichier [Vers test.txt](test.txt)  
 
-#Ajouter une image  
+## Ajouter une image  
 ![photo](logo-afpi.png)  
 
 #Ajouter un emoji  
@@ -47,7 +47,7 @@ Pour trouver la liste des emojis disponible avec GitHub : [Liste des emojis](htt
 2. Pomme de terre
 3. Salade
 
-#Liste Imbriquée
+## Liste Imbriquée
 * Element 1
   * Element 1.A
     * Element 1.A.1
